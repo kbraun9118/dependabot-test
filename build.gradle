@@ -84,5 +84,5 @@ dependencies {
     testCompile 'com.googlecode.junit-toolbox:junit-toolbox'
     testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
     testImplementation("org.mock-server:mockserver-netty:5.5.1")
-    testImplementation("org.mock-server:mockserver-client-java:5.5.1")
+    testImplementation("org.mock-server:mockserver-client-java:5.11.2")
 }

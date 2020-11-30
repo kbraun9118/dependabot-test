@@ -61,7 +61,7 @@ dependencies {
     compile 'org.springframework.security.oauth:spring-security-oauth2'
     compile 'org.springframework.security:spring-security-jwt'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.9'
-    compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.9'
+    compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.12.0'
     compile 'com.zaxxer:HikariCP'
     compile 'com.sun.mail:javax.mail'
     compile('org.springframework.boot:spring-boot-starter-mail')
